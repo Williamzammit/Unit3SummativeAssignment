@@ -1,0 +1,778 @@
+﻿_id,Species Common Name,Activity Type,Month,Total Animals 2010,Total Animals 2011,Total Animals 2012,Total Animals 2013,Total Animals 2014,Total Animals 2015,Total Animals 2016,Total Animals 2017,Total Animals 2018,Total Animals 2019,Total Animals 2020,Total Animals 2021,Total Animals 2022,Total Animals 2023
+1,American Coot,Driving,4,,,,,,,,,3,,,,,
+2,American Robin,Driving,5,,,,,,,1,,,,,,,
+3,American Robin,Driving,6,,,,,1,,,,,1,,,1,
+4,American Robin,Driving,7,,,,,1,,,,,,,,1,
+5,American Robin,Driving,8,,,,,,,,1,,,,,1,
+6,American Toad,Driving,3,,,1,,,,,,,,,,,
+7,American Toad,Driving,4,,,,1,,,,,,,,,,
+8,Badger,Driving,5,,,,,,,,1,,,,,,
+9,Badger,Driving,7,,,,,,,,,,,1,1,,
+10,Badger,Driving,8,,1,,,,,,,,,,,,1
+11,Badger,Driving,10,,,,,,,,,,,1,,,
+12,Bald Eagle,Driving,2,,,,,,,,,,,,,1,
+13,Bald Eagle,Driving,4,,,,,,,,,,,1,,,
+14,Bald Eagle,Driving,7,,1,,,,,,,,,,,,
+15,Bald Eagle,Driving,8,,,,,,,1,,,,,,,
+16,Bald Eagle,Driving,9,,,,,,,,,,,,,,1
+17,Barred Owl,Driving,2,,,,,,,,,,,,1,,
+18,Barred Owl,Driving,6,,,,,,,2,1,1,,,,,
+19,Barred Owl,Driving,7,,,,,,,,,,,1,,,
+20,Barred Owl,Driving,8,,,,,,1,,1,,,,,,
+21,Barred Owl,Driving,9,,,1,,,,,,,,,,,1
+22,Barred Owl,Driving,11,,,,,1,,,,,,,,,
+23,Beaver,Driving,1,,,,,,,,,,,,,,1
+24,Beaver,Driving,4,,,,,,,1,,,,,2,,
+25,Beaver,Driving,5,,,,1,,1,1,2,,2,1,1,1,1
+26,Beaver,Driving,6,,,,,,,,1,,,,,3,
+27,Beaver,Driving,7,,,5,,,,,1,,1,,2,,1
+28,Beaver,Driving,8,,,,,,,4,,,1,1,,,
+29,Beaver,Driving,9,,,,,,,1,,,,,,,2
+30,Beaver,Driving,10,,,1,,,,,1,,,,,,1
+31,Beaver,Driving,11,,,,,,,,,2,,,,,
+32,Beaver,Railway,7,,,,,,,,,,,,,1,
+33,Bighorn Sheep,Driving,1,3,14,2,3,2,1,1,1,,1,1,1,3,2
+34,Bighorn Sheep,Driving,2,1,2,,,5,,3,2,,,,,,
+35,Bighorn Sheep,Driving,3,1,3,3,4,2,,3,,,,3,,,1
+36,Bighorn Sheep,Driving,4,,6,,3,8,1,2,3,1,1,,1,,
+37,Bighorn Sheep,Driving,5,2,1,1,2,3,2,1,,,,1,1,,3
+38,Bighorn Sheep,Driving,6,4,,1,,1,1,1,1,,1,,,1,1
+39,Bighorn Sheep,Driving,7,2,1,2,1,,2,2,1,,2,4,,3,1
+40,Bighorn Sheep,Driving,8,,2,4,3,,,3,,1,,,,,
+41,Bighorn Sheep,Driving,9,2,2,,1,1,1,,1,2,,,,1,1
+42,Bighorn Sheep,Driving,10,,1,5,1,1,,3,2,1,,1,,,6
+43,Bighorn Sheep,Driving,11,5,3,5,,4,3,3,,4,3,,2,3,2
+44,Bighorn Sheep,Driving,12,3,3,4,2,2,5,,1,2,,,2,1,1
+45,Bighorn Sheep,Railway,1,,6,3,,,2,1,,,,,,1,
+46,Bighorn Sheep,Railway,2,,2,1,1,1,,,,,1,,,1,
+47,Bighorn Sheep,Railway,3,,,1,,,,1,,4,1,2,2,,
+48,Bighorn Sheep,Railway,4,1,,2,7,,,,5,,1,1,2,,
+49,Bighorn Sheep,Railway,5,1,,,,,1,,1,,1,,1,,
+50,Bighorn Sheep,Railway,6,1,,,,,2,1,1,,,,2,,1
+51,Bighorn Sheep,Railway,7,5,,,,,,,2,,2,4,1,,
+52,Bighorn Sheep,Railway,8,2,,,1,,,,,,1,1,,,1
+53,Bighorn Sheep,Railway,10,,,,,,,,,1,1,,2,2,
+54,Bighorn Sheep,Railway,11,,1,1,,,,1,1,,,,,,1
+55,Bighorn Sheep,Railway,12,,2,,,1,2,1,,,,,,1,
+56,Black Bear,Driving,4,,,1,,,,1,,,,,,,1
+57,Black Bear,Driving,5,3,2,2,,3,2,,,5,,2,1,1,1
+58,Black Bear,Driving,6,3,1,3,1,9,5,4,3,6,4,5,1,6,6
+59,Black Bear,Driving,7,3,4,5,2,15,2,1,8,5,5,3,4,10,6
+60,Black Bear,Driving,8,3,8,6,4,4,5,4,8,5,6,6,6,7,3
+61,Black Bear,Driving,9,3,,1,3,2,,2,5,3,3,4,,1,5
+62,Black Bear,Driving,10,4,1,2,,2,1,1,,1,,8,,2,2
+63,Black Bear,Driving,11,,,,,,,,,,,1,,1,1
+64,Black Bear,Railway,4,2,,,,,1,,,,1,,1,,
+65,Black Bear,Railway,5,,3,1,,3,1,3,2,7,3,3,3,4,4
+66,Black Bear,Railway,6,1,1,4,3,7,1,2,3,,1,1,1,,2
+67,Black Bear,Railway,7,,,,1,2,1,,,,2,1,4,,1
+68,Black Bear,Railway,8,,,1,1,1,2,2,2,,2,,,,
+69,Black Bear,Railway,9,,,1,,2,1,3,,2,1,1,,,4
+70,Black Bear,Railway,10,,,1,,,1,3,,,1,4,,,1
+71,Black Bear,Railway,11,1,1,,1,1,1,,,,,,,,
+72,Black Duck,Driving,7,,,,,,,,,8,,,,,
+73,Black-billed Cuckoo,Driving,6,,,,,,,,,,,,,,1
+74,Black-tailed deer,Driving,2,,,,,,,,,,,,,,1
+75,Black-tailed deer,Driving,3,1,,,,,1,,,,,,,,
+76,Black-tailed deer,Driving,4,1,,,,,,,,,,,,,
+77,Black-tailed deer,Driving,5,1,,,,,,,,,,,,,
+78,Black-tailed deer,Driving,6,,,,,1,,,,,,,,1,
+79,Black-tailed deer,Driving,7,1,1,1,,,,,1,,1,1,,,
+80,Black-tailed deer,Driving,8,,,,,,1,,,,,,,,1
+81,Black-tailed deer,Driving,9,,,,,1,,,,,,,,,
+82,Black-tailed deer,Driving,10,1,1,,,,,,,,,,,1,
+83,Black-tailed prairie dog,Driving,3,,,,,,,,1,,,,,,
+84,Black-tailed prairie dog,Driving,4,,,,,,,,1,,,,,4,
+85,Black-tailed prairie dog,Driving,5,,,,,,2,1,5,2,2,,1,6,
+86,Black-tailed prairie dog,Driving,6,,,1,,,,1,3,3,,5,,12,
+87,Black-tailed prairie dog,Driving,7,,,1,,1,,7,,2,2,2,,6,
+88,Black-tailed prairie dog,Driving,8,,,2,,,1,3,1,,2,1,,7,
+89,Black-tailed prairie dog,Driving,9,,,,,,,2,1,,,,5,4,
+90,Black-tailed prairie dog,Driving,10,,,,,,,,2,,,,,2,
+91,Black-tailed prairie dog,Driving,12,,,,,,,,2,,,,,,
+92,Blanding's Turtle,Driving,9,,,,,,,,,,,,,,2
+93,Blue Grouse,Driving,5,,,,1,,,,,,,,,,
+94,Blue Grouse,Driving,8,,,,,,,,1,,1,,,,
+95,Blue Jay,Driving,6,,,,,,,,,,,,,1,
+96,Bobcat,Driving,2,1,,,,,,,,,,,,,
+97,Bobcat,Driving,8,,,,,,,,,,1,,,,1
+98,Bobcat,Driving,9,,,,,,,,1,,,,,,
+99,Boreal Owl,Driving,6,,,,,,,,,1,,,,,
+100,Boreal Owl,Driving,8,,,,1,,,,,,,,,,
+101,Brown-headed cowbird,Driving,5,,,,,,,,,,,,,,1
+102,Bullfrog,Driving,9,,,,,,,,1,,,,,,
+103,Bullsnake,Driving,5,,,,,,,,,1,,,,1,
+104,Bullsnake,Driving,8,,,,,,,1,,,,,,1,
+105,Bullsnake,Driving,9,,,,,,,1,,,,,1,1,
+106,Burrowing Owl,Driving,7,,,,1,,1,,,,,,,,
+107,Burrowing Owl,Driving,8,,,,,,,1,,,,,,1,
+108,Canada Goose,Driving,3,,,,,,,2,,,,,,,
+109,Canada Goose,Driving,4,,,1,,,,,,,2,,1,,
+110,Canada Goose,Driving,5,,1,,,,,1,1,1,,,,,
+111,Canada Goose,Driving,6,,,,,1,,,1,,,2,1,2,
+112,Canada Goose,Driving,7,,,,,,,1,,,2,,1,3,
+113,Canada Goose,Driving,8,,,,,2,3,,,1,,,,,1
+114,Canada Goose,Driving,11,,,,,,,1,,,,,,,
+115,Canada Goose,Railway,4,,,,,,,,,,,,,,1
+116,Caribou,Driving,2,1,,,,,,,,,1,,,,1
+117,Caribou,Driving,3,2,,,,,,,,,,,,,
+118,Caribou,Driving,4,,,,,,,,,3,1,,1,,
+119,Caribou,Driving,5,,,1,,,,,,2,,2,,,3
+120,Caribou,Driving,6,,,1,,,,,,1,,,,,
+121,Caribou,Driving,7,,,,1,,1,,,,,,,,
+122,Caribou,Driving,10,,,2,,,,,,,,1,,,
+123,Caribou,Driving,11,,,,1,,,,,,,,,,
+124,Caribou,Driving,12,,1,1,,,1,,,,,,,,
+125,Cedar Waxwing,Driving,6,,,,,,,,,,5,,,,
+126,Cedar Waxwing,Driving,7,,,,,,,,,1,,,,,
+127,Chipping Sparrow,Driving,8,,,,,,,,,,1,,,,
+128,Columbian Ground Squirrel,Driving,5,,,,,,,,1,,,,1,,
+129,Columbian Ground Squirrel,Driving,6,,,,,,,,,1,,,1,3,2
+130,Columbian Ground Squirrel,Driving,7,,,,1,1,,,1,,2,1,1,3,3
+131,Columbian Ground Squirrel,Driving,8,,,,,,,,,,1,,1,,1
+132,Columbian Ground Squirrel,Railway,7,,,,,,,,,,,,,,1
+133,Common Gartersnake,Driving,3,,,7,,,,,,,,,,,
+134,Common Gartersnake,Driving,4,,,,1,,,,,,2,,,,1
+135,Common Gartersnake,Driving,5,,,,,,,,,,2,,,,1
+136,Common Gartersnake,Driving,6,,,,,,,,,,,,,,1
+137,Common Gartersnake,Driving,7,,1,,1,,,1,,,,,,,1
+138,Common Gartersnake,Driving,8,,,,,,,,,,,1,1,,
+139,Common Gartersnake,Driving,9,,,,,,,,,,,,,,5
+140,Common Gartersnake,Driving,10,13,,,3,,,,,,,,1,,25
+141,Common Goldeneye,Driving,6,,,2,,,,,,,,,,,
+142,Common Loon,Driving,7,,,,,,,,,,,1,,,
+143,Common Redpoll,Driving,11,,,,,,300,,,,,,,,
+144,Cougar,Driving,1,,,,,,,,1,,,,,,
+145,Cougar,Driving,7,,2,,,,,,,,,,,,
+146,Cougar,Driving,9,,,,,1,,1,,,,,,,
+147,Cougar,Railway,3,,,1,,,1,,,,,,2,,
+148,Cougar,Railway,4,,,,,,,,1,,,,,,
+149,Cougar,Railway,9,,,,,,1,,,,,,,,
+150,Cougar,Railway,11,,1,,,,,,,,,,,,
+151,Coyote,Driving,1,2,1,,1,,1,,1,,,1,1,1,1
+152,Coyote,Driving,2,1,,2,,2,1,2,,,,1,,,1
+153,Coyote,Driving,3,,2,2,1,2,1,,1,1,,,,,
+154,Coyote,Driving,4,1,2,,,,3,,,,2,,,,
+155,Coyote,Driving,5,1,1,2,1,1,4,2,1,2,1,,1,,1
+156,Coyote,Driving,6,,1,,1,,1,,,1,2,,,1,
+157,Coyote,Driving,7,3,2,2,5,2,1,3,3,2,3,,,1,1
+158,Coyote,Driving,8,3,6,,4,4,2,3,1,2,2,3,1,2,
+159,Coyote,Driving,9,8,7,3,,3,,2,1,3,1,1,2,2,4
+160,Coyote,Driving,10,,2,1,4,,1,1,1,1,4,2,2,3,2
+161,Coyote,Driving,11,1,2,,1,1,2,,1,2,5,,2,3,2
+162,Coyote,Driving,12,,,,,3,2,,1,,,,1,,
+163,Coyote,Railway,1,,1,,1,,,,,1,1,,1,,
+164,Coyote,Railway,2,1,,,,,,,,,,,,,
+165,Coyote,Railway,3,,,,,,,,,,1,,,,
+166,Coyote,Railway,4,,,,,,,,,,,1,,,
+167,Coyote,Railway,5,,,,1,,,,,,,,,,
+168,Coyote,Railway,7,,,,,1,,,,,,,,,
+169,Coyote,Railway,9,,,,,1,,,,,,,,,
+170,Coyote,Railway,10,,,,,,,,,,,,1,,1
+171,Coyote,Railway,11,,,,,,,,,1,,1,,,
+172,Coyote,Railway,12,,,,,,,,,,,,1,1,
+173,Crow,Driving,6,,,,,,,,,1,1,,,,
+174,Crow,Driving,7,,,,1,,2,,1,1,1,1,1,3,1
+175,Crow,Driving,8,,,,1,,,1,,1,,1,1,,
+176,Crow,Driving,9,,,,,,,,,,1,,,1,
+177,Crow,Railway,4,,,,,,,,,,1,,,,
+178,Crow,Railway,9,,,,,,,1,,,,,,,
+179,Dall's sheep,Driving,4,,,,,,2,,,,,,,,
+180,Dall's sheep,Driving,5,,,,,,,1,,,,,,,
+181,Dall's sheep,Driving,9,2,,,,,,1,,8,,,,,
+182,DeKay's Brownsnake,Driving,3,,,3,,,,,,,,,,,
+183,DeKay's Brownsnake,Driving,4,,,,23,,,,,,,,,,2
+184,DeKay's Brownsnake,Driving,5,,,,,,,,,,,,,1,
+185,DeKay's Brownsnake,Driving,9,,,21,,,,,,,,,,,
+186,DeKay's Brownsnake,Driving,10,22,,,4,,,,,,,,,,32
+187,Domestic Cat,Driving,1,,,,,1,,,,,,,,,
+188,Domestic Cat,Driving,5,,,,,,,,,,1,,,,
+189,Domestic Cat,Driving,7,,,,,,,,,,1,,,,
+190,Domestic Cat,Driving,8,,,,1,,,,,,,,,,
+191,Domestic Cat,Driving,9,,,,,,,,,,,,1,,
+192,Domestic Cat,Driving,12,,,,,,,,,,,,,,1
+193,Domestic Cattle,Driving,1,,,,,,3,,,,,,,,
+194,Domestic Cattle,Driving,8,,,,,,,,,,,,,9,
+195,Domestic Dog,Driving,5,,,,,,,,,,,,,,1
+196,Domestic Dog,Driving,6,,,,,,,,1,,,,,,
+197,Domestic Dog,Driving,8,,,,,,,,,,,,1,,
+198,Double-crested Cormorant,Driving,9,,1,,,,,,,,,,,,
+199,Eastern Chipmunk,Driving,8,,,,,1,,,,,,,,,
+200,Eastern Chipmunk,Driving,9,,,,,,,,,,,,,,1
+201,Eastern Foxsnake,Driving,5,,,,,,,,,,,1,,,
+202,Eastern Foxsnake,Driving,9,,,,,,,,,,,,,,5
+203,Eastern Foxsnake,Driving,10,2,,,,,,,,,,,,,2
+204,Eastern Grey Squirrel,Driving,4,,,,,,,,,,,,,,1
+205,Eastern Grey Squirrel,Driving,5,,,,,,,,,,,,,,2
+206,Eastern Grey Squirrel,Driving,6,,,,,,,,,,,,,,1
+207,Eastern Grey Squirrel,Driving,7,,,,,,,,,,,,,,1
+208,Eastern Grey Squirrel,Driving,9,,,,,,,,,,,,,,1
+209,Eastern Painted Turtle,Driving,6,,,,,,,,,,,,,1,
+210,Elk,Driving,1,1,3,,3,2,,4,2,2,,,1,2,
+211,Elk,Driving,2,2,1,,2,2,3,,1,3,2,,,,1
+212,Elk,Driving,3,1,2,,1,,2,1,1,,,2,,,1
+213,Elk,Driving,4,,,4,1,1,4,,1,1,2,1,,1,1
+214,Elk,Driving,5,2,1,,,4,1,,1,3,1,2,,,2
+215,Elk,Driving,6,1,5,1,3,2,4,2,,2,2,,2,2,
+216,Elk,Driving,7,5,1,3,5,2,3,2,3,2,1,2,2,1,2
+217,Elk,Driving,8,3,2,3,2,2,2,4,2,3,4,1,1,,2
+218,Elk,Driving,9,4,2,6,3,1,4,2,4,4,6,1,4,2,4
+219,Elk,Driving,10,4,5,4,,,3,2,3,2,1,3,2,2,2
+220,Elk,Driving,11,2,1,2,1,1,3,4,1,7,1,3,2,1,
+221,Elk,Driving,12,2,1,4,1,2,,1,4,,4,,7,,2
+222,Elk,Railway,1,5,2,3,3,4,2,2,2,1,3,2,,4,1
+223,Elk,Railway,2,2,6,2,,1,3,5,4,3,1,2,1,1,3
+224,Elk,Railway,3,3,4,4,4,2,,1,1,4,,,2,5,
+225,Elk,Railway,4,,1,,2,1,1,2,1,1,,,1,6,3
+226,Elk,Railway,5,3,1,2,2,2,1,3,2,,2,,1,1,
+227,Elk,Railway,6,,1,6,1,2,1,1,,1,,,1,,
+228,Elk,Railway,7,,,,,,,,1,,,,,,
+229,Elk,Railway,8,1,,,,1,3,1,,,,,1,,
+230,Elk,Railway,9,2,2,,2,2,,1,1,,1,,1,,1
+231,Elk,Railway,10,2,4,5,3,2,2,1,3,,,1,2,2,5
+232,Elk,Railway,11,1,1,2,4,2,5,11,1,3,1,,1,1,
+233,Elk,Railway,12,4,4,2,2,3,3,2,,,4,,2,,4
+234,European rabbit,Driving,8,,,,,,,,,,,,,,1
+235,European rabbit,Driving,9,,,,,,,,,,,,,1,
+236,Fisher,Driving,2,,,,,,,,,,,,1,,
+237,Fisher,Driving,3,1,,,,,,,,,,,,,
+238,Franklin's Gull,Driving,7,,,,,,,,,,1,,,1,
+239,Glaucous Gull,Driving,12,,,,,,,,,,,,,,1
+240,Golden Eagle,Driving,3,,,,,1,,,,,,,,,
+241,Golden Eagle,Railway,7,,,,,1,,,,,,,,,
+242,Golden Eagle,Railway,10,,,,1,,,,,,,,,,
+243,Golden-crowned Kinglet,Driving,10,,,,21,,,,,,,,,,
+244,Golden-mantled Ground Squirrel,Driving,7,,1,,,,,,,,,,,,
+245,Gopher snake,Driving,8,,,,,,,,1,,,,,,
+246,Gray Jay,Driving,3,,,,1,,,,,,,,,,
+247,Gray Jay,Driving,4,,,,1,,,,,,,,,,
+248,Gray Jay,Driving,8,,,,,,,,1,,,,,,
+249,Gray Jay,Driving,10,,,,,,,,,,,,,1,
+250,Great Black-backed Gull,Driving,11,,,,,,,,,,,,6,,
+251,Great Blue Heron,Driving,3,,,1,,,,,,,,,,,
+252,Great Blue Heron,Driving,9,,,,,,,,1,,,,,,
+253,Great Blue Heron,Railway,7,,,,,,1,,,,,,,,
+254,Great Grey Owl,Driving,3,,,,,,1,,,,,,,,
+255,Great Grey Owl,Driving,4,,,,1,,1,,,,,,1,,
+256,Great Grey Owl,Driving,5,,,1,,1,,,,,,,,,
+257,Great Grey Owl,Driving,8,,,,,,,1,,,,,,,
+258,Great Grey Owl,Driving,9,,,,1,,,,,1,,1,,,
+259,Great Grey Owl,Driving,10,,,,,,1,1,,,,,,,1
+260,Great Grey Owl,Driving,12,,,,,,,,2,,,,,,
+261,Great Horned Owl,Driving,1,,,,1,,,1,,,1,,,1,1
+262,Great Horned Owl,Driving,2,,,,,,1,,,1,,,,,
+263,Great Horned Owl,Driving,3,1,,,2,,,1,,,,,,1,3
+264,Great Horned Owl,Driving,4,,,,,,,,1,,,,,,
+265,Great Horned Owl,Driving,5,,1,,,,,1,,,,,,,
+266,Great Horned Owl,Driving,6,,,,,,,,,,,,,1,
+267,Great Horned Owl,Driving,7,,,,,,,,,,,1,,,1
+268,Great Horned Owl,Driving,8,,,1,,1,,,,,,,,,
+269,Great Horned Owl,Driving,9,,,,2,,,,2,,1,,,1,1
+270,Great Horned Owl,Driving,10,,,,,,,,,1,1,,,1,2
+271,Great Horned Owl,Driving,11,,,,,2,,1,,,,,2,,
+272,Great Horned Owl,Driving,12,,,,1,,,,1,,,,,,
+273,Great Horned Owl,Railway,8,,,,,,,1,,,,,,,
+274,Greater White-fronted Goose,Driving,12,1,,,,,,,,,,,,,
+275,Grizzly Bear,Driving,5,,2,,,,,,,,,,1,,1
+276,Grizzly Bear,Driving,6,1,,,,,,,,,2,,2,3,
+277,Grizzly Bear,Driving,7,,1,,1,1,,,,,,,1,,
+278,Grizzly Bear,Driving,8,,,,,,,,,,,,1,,
+279,Grizzly Bear,Driving,10,,1,,,1,,,1,,,,,2,
+280,Grizzly Bear,Railway,4,1,,,,,,,,1,,,,,
+281,Grizzly Bear,Railway,5,1,1,,,,,,,,,,1,1,
+282,Grizzly Bear,Railway,6,2,,,,,,,,,,,2,1,
+283,Grizzly Bear,Railway,9,,,,,,,,,,,1,,,
+284,Grizzly Bear,Railway,10,,,2,,,,,,,,,1,,
+285,Grizzly Bear,Railway,11,,1,,,,,,,,,,,,
+286,Herring Gull,Driving,6,,,,,,,,1,,,,,,
+287,Herring Gull,Driving,9,,1,,1,,,,,,,,,,
+288,Hoary Marmot,Driving,5,,,,,,,,,,,,1,,
+289,Hoary Marmot,Driving,6,,,,,,,,1,,,,,,
+290,Hoary Marmot,Driving,7,,1,1,,,,,2,1,1,1,1,1,1
+291,Hoary Marmot,Driving,8,,,,,,,1,,,,,,,
+292,Hoary Marmot,Driving,9,,,,,1,,,,,,,,,
+293,Jackrabbit,Driving,6,,,,,,,,,,,2,,,
+294,Jackrabbit,Driving,8,,,,,,,,,,,,,1,
+295,Jackrabbit,Driving,9,,,,,,,,,,,,,2,
+296,Jackrabbit,Driving,10,,,,,1,,,1,,,,,,
+297,Least Chipmunk,Driving,9,1,,,,,,,,,,,,,
+298,Little Brown Myotis,Driving,6,,,,,,,,,,,,,,1
+299,Little Brown Myotis,Driving,8,,,,,,,,,,,1,1,,
+300,Loggerhead Shrike Prairie,Driving,7,,,,,,,,,,,,,2,
+301,Loggerhead Shrike Prairie,Driving,8,,,,,,,,,,,,,2,
+302,Long-eared Owl,Driving,8,,,,,,,,1,,,,,,
+303,Long-eared Owl,Driving,10,,,1,1,,,,,,,,,,
+304,Long-tailed Weasel,Driving,7,,,,,,,,,,,,,,1
+305,Long-tailed Weasel,Driving,8,,,,,,,,,,,,,1,
+306,Long-toed Salamander,Driving,4,,,,,,,,,61,2,,,,
+307,Lynx,Driving,1,,,,1,,,,,,,,1,,
+308,Lynx,Driving,2,,,,1,,,,,,,,,,
+309,Lynx,Driving,4,,,1,,,,,,,,,,,
+310,Lynx,Driving,5,,1,,,,,,,,,,,,
+311,Lynx,Driving,6,,,,,,,,,,,,,1,
+312,Lynx,Driving,7,,,,,,,,,,1,,,,
+313,Lynx,Driving,8,,,,,,,,,,,1,,,
+314,Lynx,Driving,9,,,,,,,1,1,,,,,,
+315,Lynx,Driving,10,,,1,,,,,,,1,,,,
+316,Lynx,Driving,11,,1,,,,,,,,,,1,,1
+317,Lynx,Driving,12,,1,,,,,,1,,,,,,
+318,Lynx,Railway,2,1,,,,,,,,,,,,,
+319,Lynx,Railway,3,,,,,,1,,,,,,,,1
+320,Lynx,Railway,4,,,,1,,,,,,,,,,
+321,Magpie,Driving,6,1,,,,,,,2,,,,,,
+322,Magpie,Driving,7,,1,,,,,,,,,,,2,
+323,Magpie,Driving,8,,,,,,,,,,,,2,,
+324,Mallard,Driving,4,1,,,,,,,,,,,,,
+325,Mallard,Driving,5,,,,,,,1,,,,,,,1
+326,Mallard,Driving,6,,,,,4,,,,,,,,2,
+327,Mallard,Driving,7,,,5,,,,1,,,,,,,
+328,Mallard,Driving,8,,1,,,,,,,,,,,,
+329,Mallard,Driving,10,,,,,,,,,,,,,,1
+330,Mallard,Driving,12,,,,,,,1,,,,1,,,
+331,Marten,Driving,1,1,1,,,1,,,,,1,,,,2
+332,Marten,Driving,2,,,1,,,1,,,,1,,,1,
+333,Marten,Driving,3,,1,,1,,1,,,1,1,,1,,
+334,Marten,Driving,4,,,,,1,2,3,,2,2,1,1,,
+335,Marten,Driving,5,,1,,2,1,,,,,1,2,2,1,1
+336,Marten,Driving,6,,,3,2,2,3,1,,,1,1,2,2,
+337,Marten,Driving,7,,2,2,3,4,1,3,,2,,1,,2,
+338,Marten,Driving,8,,2,,1,1,1,,,1,1,1,,1,1
+339,Marten,Driving,9,,,,1,2,1,1,,2,1,1,1,,
+340,Marten,Driving,10,,1,1,,,,,,,,,,,1
+341,Marten,Driving,11,,,1,2,1,3,,,,2,4,,,
+342,Marten,Driving,12,,,1,,1,,,,,1,,,1,2
+343,Massasauga,Driving,5,,,,,,2,,,,,,,,
+344,Massasauga,Driving,6,2,,,,,,,,,,,,,
+345,Massasauga,Driving,7,8,,,,,3,1,,,,,,,
+346,Massasauga,Driving,8,,,,,,,4,,,,,,,
+347,Massasauga,Driving,9,,1,,,,,1,,,,,,,
+348,Massasauga,Driving,10,,1,,,,1,,,,,,,,
+349,Merlin,Driving,7,,,,,,,,1,,,,,,
+350,Merlin,Driving,8,,,,,,,,,,1,,1,,
+351,Midland Painted Turtle,Driving,6,,,,,,,,,,,,,,4
+352,Midland Painted Turtle,Driving,7,,,,,,,,,,,,,,2
+353,Midland Painted Turtle,Driving,9,,,,,,,,,,,,,,1
+354,Mink,Driving,2,,,,,,,,,,,,2,,
+355,Mink,Driving,3,,,,,,,,,,1,,,1,
+356,Mink,Driving,4,,,,,,,,,,,,,,1
+357,Mink,Driving,6,,,,,,,1,,,,,,,
+358,Mink,Driving,7,,,,,,1,,,1,,,,1,1
+359,Mink,Driving,9,1,,,,,,,1,,,,1,,
+360,Mink,Driving,10,,,,,,,,,,,1,,,
+361,Moose,Driving,1,7,7,4,3,8,4,5,7,,3,3,2,2,4
+362,Moose,Driving,2,2,4,2,2,1,2,1,2,,1,2,3,2,1
+363,Moose,Driving,3,5,6,3,2,,2,1,2,2,,2,,,1
+364,Moose,Driving,4,2,2,3,,1,2,,1,2,1,,,,1
+365,Moose,Driving,5,5,3,3,1,2,1,1,1,2,2,1,1,4,5
+366,Moose,Driving,6,4,6,4,8,4,3,3,,5,3,3,3,3,7
+367,Moose,Driving,7,6,9,3,5,7,2,2,2,4,,3,2,3,6
+368,Moose,Driving,8,8,10,8,4,4,3,3,,4,3,3,2,2,2
+369,Moose,Driving,9,3,4,11,7,4,,7,2,1,4,3,5,7,3
+370,Moose,Driving,10,9,4,12,1,,1,2,2,2,1,3,4,6,5
+371,Moose,Driving,11,6,2,3,6,2,2,1,1,1,4,4,1,2,3
+372,Moose,Driving,12,3,4,4,4,1,5,3,1,1,3,5,2,2,4
+373,Moose,Railway,1,1,,1,,,,1,2,1,,1,2,2,
+374,Moose,Railway,2,2,,,,,,,,,,1,1,,
+375,Moose,Railway,3,,,,,,1,,,1,1,,,,
+376,Moose,Railway,4,2,1,2,,1,1,,1,1,,,,1,
+377,Moose,Railway,5,,,,,,,,1,,1,,1,,
+378,Moose,Railway,6,,,,,,,1,,1,,,,1,
+379,Moose,Railway,7,,1,,,,,,,,,,,1,1
+380,Moose,Railway,8,,,,,,,,1,,,,,,
+381,Moose,Railway,9,,,1,,,,,,1,,,,,1
+382,Moose,Railway,11,,,1,,1,,,,,,2,,,1
+383,Moose,Railway,12,,1,1,,,1,,,,1,,,,
+384,Mountain Goat,Driving,1,,,,,,,1,,,,,1,,
+385,Mountain Goat,Driving,5,,,,,1,,1,,,1,1,,1,
+386,Mountain Goat,Driving,6,,,3,3,2,5,3,1,3,2,,3,,2
+387,Mountain Goat,Driving,7,1,,1,,4,7,2,1,3,5,5,,2,2
+388,Mountain Goat,Driving,8,,1,,,,4,,2,,,,,,
+389,Mountain Goat,Driving,9,1,1,,,,1,,,,,,2,2,
+390,Mountain Goat,Driving,10,,1,,,,,1,,,,1,,,1
+391,Mountain Goat,Driving,11,,,,,,1,,,,,,,,
+392,Mountain Goat,Railway,7,,,,,1,,,,,,,,,
+393,Mule Deer,Driving,1,4,4,1,1,,1,,3,,,2,1,,
+394,Mule Deer,Driving,2,,,,1,2,,,,,,,,1,2
+395,Mule Deer,Driving,3,1,,2,,1,,1,,1,,,1,1,
+396,Mule Deer,Driving,4,4,6,4,1,,1,1,,,2,,,2,
+397,Mule Deer,Driving,5,8,3,3,2,5,5,4,5,6,2,1,,4,6
+398,Mule Deer,Driving,6,2,6,10,1,2,4,,3,3,5,2,6,7,5
+399,Mule Deer,Driving,7,7,9,2,4,2,2,3,10,3,6,8,4,4,4
+400,Mule Deer,Driving,8,1,5,3,3,5,2,1,5,4,5,4,3,2,2
+401,Mule Deer,Driving,9,5,4,1,1,,1,2,2,2,1,,3,2,2
+402,Mule Deer,Driving,10,6,6,4,4,6,2,4,2,6,3,2,8,2,6
+403,Mule Deer,Driving,11,3,,1,,,3,2,1,1,1,2,5,2,2
+404,Mule Deer,Driving,12,,,2,2,1,2,1,2,1,,1,1,3,2
+405,Mule Deer,Railway,1,1,1,3,,,,,2,2,1,2,4,1,2
+406,Mule Deer,Railway,2,,1,,,1,1,,2,1,1,1,4,,1
+407,Mule Deer,Railway,3,,1,,,2,,,3,,1,1,1,1,
+408,Mule Deer,Railway,4,,,2,,,,,,2,1,1,,,
+409,Mule Deer,Railway,5,,,1,1,,,,,,,,1,,
+410,Mule Deer,Railway,6,2,,,,1,,,,,,,,,
+411,Mule Deer,Railway,7,1,,,,,,1,,,,,,1,1
+412,Mule Deer,Railway,8,,,,,1,,,,,,,1,,
+413,Mule Deer,Railway,9,1,,1,,,,,,,,,,,
+414,Mule Deer,Railway,10,1,,2,1,,1,,,1,,,,,
+415,Mule Deer,Railway,11,1,,2,,,3,1,,1,,1,,3,1
+416,Mule Deer,Railway,12,2,,8,,,3,1,1,,,,,,1
+417,Muskrat,Driving,3,,,,,,,,,,1,,,,1
+418,Muskrat,Driving,4,,,,,,,,,,1,,,1,1
+419,Muskrat,Driving,6,,,,,,,1,,,,,,,
+420,Muskrat,Driving,8,,,,,,,1,,,,,,,
+421,Muskrat,Driving,9,,,,,1,,,1,,,2,,,2
+422,Muskrat,Driving,10,,,,,,,,,,,,,1,
+423,Muskrat,Driving,11,,,,,,,,,,,1,,,
+424,Newfoundland Marten,Driving,2,,,,,,,,,,,,,,1
+425,Newfoundland Marten,Driving,5,,,,,,,,,1,,,,,
+426,Northern Alligator Lizard,Driving,9,1,,,,,,,,,,,,,
+427,Northern Flicker,Driving,4,,,,,1,,,,,,,,,
+428,Northern Flicker,Driving,5,,,,,,,,1,,,,,,
+429,Northern Goshawk,Driving,8,,,,,,,,,,,,,1,
+430,Northern Harrier,Driving,10,,,1,,,,,,,,,,,
+431,Northern Hawk Owl,Driving,5,,1,,,,,,,,,,,,
+432,Northern Hawk Owl,Driving,8,1,1,,,,,,,,,,,,
+433,Northern Hawk Owl,Driving,10,1,,1,,,,,,,,,,,
+434,Northern Hawk Owl,Driving,11,,,1,,,,,,,,,,,
+435,Northern Hawk Owl,Driving,12,,,,1,,,,,,,,,,
+436,Northern Saw-whet Owl,Driving,1,,,1,,,,,,,,,,,
+437,Northern Saw-whet Owl,Driving,3,,,,,,,,,1,,,,,
+438,Northern Saw-whet Owl,Driving,4,,1,,,,,,,1,,1,,,
+439,Northern Saw-whet Owl,Driving,8,,,,,,,,,,1,,,,
+440,Northern Saw-whet Owl,Driving,10,,,1,,,,,,,,,,,
+441,Northern Saw-whet Owl,Railway,3,,,,,,,,,1,,,,,
+442,Opossum,Driving,10,,,,,,,,,,,,1,,
+443,Osprey,Driving,4,,,,1,,,,,,,,,,
+444,Osprey,Driving,5,,,,,,,,,,,,,,1
+445,Osprey,Driving,6,,,1,,,,,,,,,,,
+446,Osprey,Driving,7,,,,1,,,,,,,,,,
+447,Osprey,Driving,8,,,,,,,,,1,,,,,
+448,Osprey,Railway,2,,,,1,,,,,,,,,,
+449,Pine Grosbeak,Driving,12,,,,,,,,,,,,,,3
+450,Pine Siskin,Driving,4,,,,,,,,,,,,,,1
+451,Pine Siskin,Driving,11,,,,,,50,,,,,,,,
+452,Plains Bison,Driving,4,1,,,,,,,,,,,,,
+453,Plains Bison,Driving,7,,,,,,,,,,,1,,,
+454,Plains Bison,Driving,8,,,,,,,,,,,,,,1
+455,Plains Bison,Driving,9,1,,2,,,,,1,,1,,3,,
+456,Plains Bison,Driving,10,,,1,,,,1,,,1,,,,
+457,Plains Bison,Driving,11,,,,,,,1,,,,,,,
+458,Plains Gartersnake,Driving,4,,,,,,,,,,,,1,,
+459,Plains Gartersnake,Driving,5,,,,2,4,,4,,,1,,,1,
+460,Plains Gartersnake,Driving,6,,,,2,,,1,1,,,,1,3,1
+461,Plains Gartersnake,Driving,7,,,,,1,,,,2,,,,,1
+462,Plains Gartersnake,Driving,8,,,,,,,,,,,,,3,
+463,Plains Gartersnake,Driving,9,,,,7,,,3,,,,,62,1,5
+464,Plains Gartersnake,Driving,10,,,,,,,,,,1,,1,,
+465,Porcupine,Driving,3,,,1,,,,,,,,,,,
+466,Porcupine,Driving,4,,,,,1,,,1,,,,,,
+467,Porcupine,Driving,5,2,,,2,2,2,2,2,1,,2,,,1
+468,Porcupine,Driving,6,,3,,1,4,4,2,4,1,1,2,3,3,3
+469,Porcupine,Driving,7,2,,,2,1,1,3,3,3,1,4,5,5,2
+470,Porcupine,Driving,8,,2,3,4,6,,4,6,4,5,5,2,7,1
+471,Porcupine,Driving,9,1,1,2,1,1,2,3,1,1,,3,5,11,2
+472,Porcupine,Driving,10,2,,2,1,,1,1,1,,,1,2,4,1
+473,Porcupine,Driving,11,,,,,,1,,,1,,,,,
+474,Porcupine,Driving,12,,,,,,,,,,1,,,,
+475,Prairie Rattlesnake,Driving,6,,,,,,,,1,,,1,,2,
+476,Prairie Rattlesnake,Driving,7,,,2,,,2,,1,2,,,,1,
+477,Prairie Rattlesnake,Driving,8,,,,,,,,,,1,,1,6,
+478,Prairie Rattlesnake,Driving,9,,,,,,,1,,,,,4,1,
+479,Prairie Rattlesnake,Driving,10,,,,,,,,1,,1,,,,
+480,Prairie Rattlesnake,Driving,11,,,,,,,,,,,,,,1
+481,Pronghorn,Driving,5,,,,,,,,,1,,,,,
+482,Raccoon,Driving,1,,,,,,,,,,1,,1,,
+483,Raccoon,Driving,2,,,,,,,,,,,,1,,
+484,Raccoon,Driving,3,,,1,,,1,,,,,,,,
+485,Raccoon,Driving,4,,,2,,,2,,,,,,1,,
+486,Raccoon,Driving,5,,,,,,,2,,,,,,1,
+487,Raccoon,Driving,6,1,,,,,,,,1,,,1,,
+488,Raccoon,Driving,7,,,,,1,,,,,,,,,
+489,Raccoon,Driving,8,,,1,1,3,,,,,,,,,1
+490,Raccoon,Driving,9,,,,,,,,,,,1,1,,1
+491,Raccoon,Driving,10,,1,,,,,1,1,,,,1,3,1
+492,Raccoon,Driving,11,,,,,,,,1,,,,,2,
+493,Raccoon,Driving,12,1,,,,,,,,,,,2,,
+494,Raccoon,Railway,5,,1,,,,,,,,,,,,
+495,Raccoon,Railway,6,,,,,,,,,,,1,,,
+496,Raven,Driving,1,,,,,,,,,,,,1,,
+497,Raven,Driving,2,,,,1,,,,,,,,,,
+498,Raven,Driving,3,,1,,,,,,,,,,,,
+499,Raven,Driving,4,,,,,,,,,,1,,,,
+500,Raven,Driving,5,,,,,,,,,,,,,,1
+501,Raven,Driving,6,,2,,,1,1,1,,1,,,,,
+502,Raven,Driving,7,,,2,8,1,,1,,,1,1,,1,5
+503,Raven,Driving,8,,,2,,,,,,1,,,2,1,2
+504,Raven,Driving,9,,,,,,,1,,,,1,,2,
+505,Raven,Driving,10,,,,,,,1,,,,,,,
+506,Raven,Driving,11,,,,,,1,,,,,1,,,
+507,Red Crossbill,Driving,2,,,,,,,,,,,,,,1
+508,Red Crossbill,Driving,3,,,,,,,,,,,,,,1
+509,Red Crossbill,Driving,11,,,,,,275,,,,,,,1,
+510,Red Crossbill,Driving,12,,,,,,1000,,,,,,,,
+511,Red Fox,Driving,1,,,1,1,,,1,1,,,2,1,1,1
+512,Red Fox,Driving,2,,,,,1,1,1,,,1,,2,2,
+513,Red Fox,Driving,3,,2,1,,2,,,,,,,,,
+514,Red Fox,Driving,4,1,,,1,1,1,,,,1,,,,
+515,Red Fox,Driving,5,,,,,,,,1,1,,,,,
+516,Red Fox,Driving,6,,,,2,,1,1,1,,1,,2,2,1
+517,Red Fox,Driving,7,4,,2,,2,,,2,,1,1,1,4,2
+518,Red Fox,Driving,8,1,,3,1,4,2,,5,,2,1,2,2,2
+519,Red Fox,Driving,9,,1,,,1,,3,,1,1,2,3,2,1
+520,Red Fox,Driving,10,1,,,,1,,,1,2,3,,2,1,2
+521,Red Fox,Driving,11,,,,1,1,1,,,,1,,,,1
+522,Red Fox,Driving,12,,,,,1,2,,2,,,,,,
+523,Red Fox,Railway,7,,,,,,,1,,,,,,,
+524,Red Fox,Railway,9,,,,,,,1,,,,,,,
+525,Red Squirrel,Driving,2,,,,,,,,,,,,,,1
+526,Red Squirrel,Driving,3,,,1,,,,,,,,,1,,
+527,Red Squirrel,Driving,4,,,,,,,,,,1,,,,2
+528,Red Squirrel,Driving,5,,,,,,,,,,,,,1,2
+529,Red Squirrel,Driving,6,,,,,,,,1,1,,,1,3,6
+530,Red Squirrel,Driving,7,2,,,1,1,,,2,2,,,2,10,5
+531,Red Squirrel,Driving,8,1,,4,1,,1,,,1,,,1,2,6
+532,Red Squirrel,Driving,9,,,,,,,,,,,,,2,2
+533,Red Squirrel,Driving,10,1,1,1,,,,,,,,,,4,
+534,Red Squirrel,Driving,11,,1,1,,,,,,,,,,,
+535,Red Squirrel,Driving,12,,,,,,,,,,,,,1,2
+536,Red-necked Grebe,Driving,10,,1,,,,,,,,,,,,
+537,Red-tailed Hawk,Driving,4,,,,,,1,,,,,,,,
+538,Red-tailed Hawk,Driving,5,,,,1,,,,,,,,,,
+539,Red-tailed Hawk,Driving,8,,,,,,2,,,,1,,,,
+540,Red-tailed Hawk,Driving,9,,1,,,,,1,,,,,,,
+541,Red-tailed Hawk,Driving,10,,,,1,,,,,,,,,,
+542,Red-tailed Hawk,Driving,11,,,,,1,,,,,,,,1,
+543,Red-winged Blackbird,Driving,6,,,,,,,,,,,,,,1
+544,Richardson's Ground Squirrel,Driving,3,,,,,,,,,,,,,3,
+545,Richardson's Ground Squirrel,Driving,4,,,,,,,,,,,,,1,
+546,Richardson's Ground Squirrel,Driving,5,,,,,,,2,,,,,,6,
+547,Richardson's Ground Squirrel,Driving,6,,,,,,,2,24,2,2,2,,26,
+548,Richardson's Ground Squirrel,Driving,7,,,,,,1,1,,5,,3,,27,
+549,Richardson's Ground Squirrel,Driving,8,,,,,,2,,1,,1,1,,13,
+550,Richardson's Ground Squirrel,Driving,9,,,,,,,,,,1,,3,2,
+551,Richardson's Ground Squirrel,Driving,10,,,,,,,,,,1,,1,,
+552,Ring-necked Pheasant,Driving,5,,,,,,,,1,,,,,,
+553,Ring-necked Pheasant,Driving,6,,,,,,,,1,,,,,,
+554,River Otter,Driving,3,,,,2,,,,1,,,,,,1
+555,River Otter,Driving,5,,,,,,,1,,,,,,,
+556,River Otter,Driving,7,,,,1,,,,,,1,,,,
+557,River Otter,Driving,8,,,,,,,,,,1,,,,
+558,River Otter,Driving,10,,,,,,1,,,,,,,,
+559,Rock Pigeon,Driving,3,,,,1,,,,,,,,,1,
+560,Rock Pigeon,Driving,5,1,,,,,,,,,,,,,
+561,Rock Pigeon,Driving,6,1,,,,,,,,,,,,,
+562,Ruffed Grouse,Driving,1,,,,,,,,,,,,1,,2
+563,Ruffed Grouse,Driving,4,,,,,,,,,,,,,1,
+564,Ruffed Grouse,Driving,5,,,,,,1,,,,4,,,,1
+565,Ruffed Grouse,Driving,6,,,,,,,,,1,,,,1,
+566,Ruffed Grouse,Driving,7,,2,,,,,,,1,1,,,,
+567,Ruffed Grouse,Driving,8,,,,1,,,,,,,,,1,1
+568,Ruffed Grouse,Driving,9,,,1,,,,,,1,,,1,,2
+569,Ruffed Grouse,Driving,10,,,,,,,,,1,,,1,,
+570,Ruffed Grouse,Driving,11,,,1,,,,,,,,,,2,1
+571,Ruffed Grouse,Driving,12,,1,,,,,,,,1,,,,
+572,Sandhill Crane,Driving,9,,,1,,,,,,,,,,,
+573,Semipalmated Plover,Driving,9,,,,,,,,,,,,1,,
+574,Sharp-shinned Hawk,Driving,8,,,,,,,,,,1,,,,
+575,Short-eared Owl,Driving,4,,,,1,,,,,,,,,,
+576,Short-eared Owl,Driving,5,,,,,,,,,,,,,1,
+577,Short-eared Owl,Driving,9,,,,,,,,,,,,1,,
+578,Skunk,Driving,3,,,,,,,,,,,,1,,1
+579,Skunk,Driving,5,1,,,,,,,,,,,,,
+580,Skunk,Driving,7,1,,1,,,,,,1,,,1,,1
+581,Skunk,Driving,8,1,,,,1,1,1,1,,1,1,,,
+582,Skunk,Driving,9,2,2,,,3,2,,,,1,,5,2,2
+583,Skunk,Driving,10,,,2,1,3,,3,,,,,,,1
+584,Skunk,Driving,11,,,,,,,1,,,,,,1,1
+585,Skunk,Driving,12,1,,,,,,,,,,,,,
+586,Skunk,Railway,1,,,,,,,,,,1,,,,
+587,Snapping Turtle,Driving,8,,,10,,,,,,,,,,,1
+588,Snapping Turtle,Driving,9,,,,,,,,,,,,,,8
+589,Snow Goose,Driving,4,,,,,,,,,1,,,,,
+590,Snowshoe Hare,Driving,1,,,,,,,,1,,,,,,
+591,Snowshoe Hare,Driving,2,,,,,,1,,,,,,1,,
+592,Snowshoe Hare,Driving,3,1,,,1,,,,,,1,,,,
+593,Snowshoe Hare,Driving,4,,,,,,,,,2,,,1,,
+594,Snowshoe Hare,Driving,5,,,,2,1,1,3,3,,,,,,1
+595,Snowshoe Hare,Driving,6,,1,1,1,2,5,3,2,1,1,4,1,5,3
+596,Snowshoe Hare,Driving,7,1,6,2,2,2,1,2,2,1,1,,1,1,5
+597,Snowshoe Hare,Driving,8,1,,,3,2,2,1,1,,,,2,,
+598,Snowshoe Hare,Driving,9,1,,,,,,1,,,,,,2,
+599,Snowshoe Hare,Driving,10,,,,,1,,,,,,,,1,
+600,Snowshoe Hare,Driving,11,,,,,,1,,,,,,1,,
+601,Spruce Grouse,Driving,1,,,,,,,,,,,,,5,
+602,Spruce Grouse,Driving,5,,1,,,,,,,,,,,,
+603,Spruce Grouse,Driving,7,,,,,,,,,,,,,1,
+604,Spruce Grouse,Driving,8,,,,,,,,,,,,1,,
+605,Spruce Grouse,Driving,11,,,1,,,,,,,,,,,
+606,Swift Fox,Driving,11,,,,,,,,,,,,,1,
+607,Thirteen-lined Ground Squirrel,Driving,7,,,,,,,,,,,1,,,
+608,Tiger Salamander,Driving,9,,,,,,,,,,,,10,,
+609,Trumpeter swan,Railway,6,,,,,,,,,,,,,1,
+610,Unknown,Driving,5,,1,,1,,1,,,,,,,,
+611,Unknown,Driving,6,1,,,,,1,2,1,1,,,,,
+612,Unknown,Driving,7,,,1,,,1,,,,,,,,
+613,Unknown,Driving,8,,,,1,,,,,,,,,1,
+614,Unknown,Driving,9,1,,,,,,,,,,,,,
+615,Unknown,Driving,10,,,,,1,,,,,,,,,
+616,Unknown bat,Driving,5,,,,,,,,,,,,1,,
+617,Unknown bat,Driving,8,,,,,,,,,,,1,,,
+618,Unknown bear,Driving,7,,,1,,,,,,,,,,,
+619,Unknown bear,Driving,9,,,,,,,,,,,,,,1
+620,Unknown bird,Driving,2,,,,,,,,,,,1,,,
+621,Unknown bird,Driving,4,1,1,,,,,,,,,,,,
+622,Unknown bird,Driving,5,,,,,,,,,2,,,,1,
+623,Unknown bird,Driving,6,,,,,,,1,,1,,,,1,1
+624,Unknown bird,Driving,7,,,,,,,,,2,1,1,,2,
+625,Unknown bird,Driving,8,,,1,,,,,,,,,,3,
+626,Unknown bird,Driving,9,,,1,,,,,,,,,1,,
+627,Unknown bird,Driving,10,,,,,,,,,,,1,,1,
+628,Unknown bird,Driving,11,,,,,,,1,,2,,,,,
+629,Unknown deer,Driving,1,,,1,2,,,,,,,,1,,
+630,Unknown deer,Driving,2,,1,,,1,,,,,,,,,
+631,Unknown deer,Driving,3,,,,,,,,,1,,,,,
+632,Unknown deer,Driving,4,3,,,,,1,,,,,,,,1
+633,Unknown deer,Driving,5,,2,,1,,,,,,3,,2,1,
+634,Unknown deer,Driving,6,2,4,1,,,1,2,,1,,1,1,1,1
+635,Unknown deer,Driving,7,3,3,1,1,,2,1,,,,,,1,1
+636,Unknown deer,Driving,8,2,,1,2,1,,,1,,,2,,4,
+637,Unknown deer,Driving,9,,1,,1,,,1,,,,,,,1
+638,Unknown deer,Driving,10,,1,1,,,1,1,,1,,,1,1,1
+639,Unknown deer,Driving,11,2,1,,,,,,,1,,,,,
+640,Unknown deer,Driving,12,,1,,,,,,,,,,,,1
+641,Unknown deer,Railway,1,,,,1,,,1,,,,,,1,
+642,Unknown deer,Railway,3,,,,,1,,,,,,,,1,
+643,Unknown deer,Railway,4,,,,,,,,,1,,,,,
+644,Unknown deer,Railway,5,,,,,,,,,,,1,,,
+645,Unknown deer,Railway,7,,,,,,,,,,,,1,,
+646,Unknown deer,Railway,10,,,,,,,,,,,1,,,
+647,Unknown deer,Railway,11,,,,,,,,,1,,,,,
+648,Unknown deer,Railway,12,,1,,,,,,,,,,1,,
+649,Unknown Duck,Driving,8,,,6,,,,,,,,,,,
+650,Unknown Duck,Driving,10,,,1,,,,,,,,,,,
+651,Unknown Duck,Driving,11,,1,,,,,,,,,,,,
+652,Unknown Duck,Driving,12,,,,,,,,,,,,1,,
+653,Unknown Frog or Toad,Driving,7,,,,,,,,,,,,1,,
+654,Unknown grouse,Driving,1,,,,,,,,,,,,,,1
+655,Unknown grouse,Driving,4,,,,,1,,,,,,,,,
+656,Unknown grouse,Driving,5,,1,,,,,,,,,,,,
+657,Unknown grouse,Driving,6,,,,,1,,,,,,,,,
+658,Unknown grouse,Driving,7,2,,,,,,,,,,,,,
+659,Unknown grouse,Driving,8,,,1,1,,,,1,1,,,,,2
+660,Unknown grouse,Driving,10,,,,,,1,,1,,,,,,1
+661,Unknown gull,Driving,4,,,,,,,,,,,,,1,
+662,Unknown gull,Driving,6,,,,,,1,,,,,,,,
+663,Unknown gull,Driving,7,,,,1,1,,,,,,,,,
+664,Unknown gull,Driving,8,,,,,,,,,1,,1,1,,
+665,Unknown gull,Driving,9,,1,,,,,,,1,,,,,
+666,Unknown gull,Driving,10,,,,,,,,,,,,,1,
+667,Unknown gull,Driving,12,1,,,,,,,,,,,,,
+668,Unknown mustelid,Driving,5,,,,,,,,,,1,,,,
+669,Unknown mustelid,Driving,7,,,,,,1,,,,,,,,
+670,Unknown mustelid,Driving,10,,,,1,,,,,,,,,,
+671,Unknown owl,Driving,5,,,,,,,,,,,,1,,
+672,Unknown owl,Driving,7,,,,,,1,,,,,,,,
+673,Unknown owl,Driving,8,,,,,,,,,,,,,1,
+674,Unknown owl,Driving,10,,,,1,,,,,1,,,,,2
+675,Unknown raptor,Driving,2,,,,,,,,,,,,,1,
+676,Unknown raptor,Driving,8,,,,,,,,1,,1,,,,
+677,Unknown raptor,Driving,9,,,,,,,,,,1,,,,
+678,Unknown rodent,Driving,5,,,,,,,,,1,1,,,,
+679,Unknown snake,Driving,8,,,1,,,,,,,,,,,
+680,Unknown snake,Driving,10,9,,,3,,,,,,,,,,
+681,Unknown ungulate,Driving,7,,,,,,1,,,,,1,,,
+682,Unknown ungulate,Driving,9,,,,,,,,,,,,1,,
+683,Water Snake,Driving,5,,,,,,,,,,,,4,,
+684,Water Snake,Driving,10,,,,,,,,,,,,,,9
+685,Western Painted Turtle,Driving,5,,,,,,1,,,,,,,1,
+686,Western Screech-Owl,Driving,1,,,1,,,,,,,,,,,
+687,Western Screech-Owl,Driving,2,,,,,,,,,,1,,,,
+688,Western Screech-Owl,Driving,11,,,,,,,,,,,,,,1
+689,Western Toad,Driving,4,,,,,,,,,,4,,,,
+690,Western Toad,Driving,5,,,,,,,,,,,,2,,
+691,Western Toad,Driving,6,,,,,,,,,,,,8,,
+692,Western Toad,Driving,7,,,,,,,,,,,,13,,
+693,Western Toad,Driving,8,,,,,,33,,,,,6,14,,
+694,Western Toad,Driving,9,,,,246,,,,,,,,3,,
+695,White Pelican,Driving,9,,,,1,,,,,,,,,,
+696,White-crowned Sparrow,Driving,7,,,,,,,,,,,,,,1
+697,White-tailed Deer,Driving,1,9,4,2,4,5,5,4,2,4,1,2,4,2,6
+698,White-tailed Deer,Driving,2,4,4,3,1,,1,,1,,,5,1,1,4
+699,White-tailed Deer,Driving,3,7,1,2,1,5,3,,1,3,1,3,6,4,
+700,White-tailed Deer,Driving,4,5,3,6,9,5,7,7,2,3,3,6,1,5,6
+701,White-tailed Deer,Driving,5,21,22,10,9,5,4,10,5,7,14,6,8,4,7
+702,White-tailed Deer,Driving,6,12,28,11,10,7,11,9,11,5,10,8,7,6,12
+703,White-tailed Deer,Driving,7,26,14,13,15,18,13,3,8,3,10,12,13,18,9
+704,White-tailed Deer,Driving,8,19,8,11,7,6,6,7,8,7,7,6,3,7,7
+705,White-tailed Deer,Driving,9,16,7,8,6,7,5,9,6,7,7,9,7,6,10
+706,White-tailed Deer,Driving,10,8,8,9,5,8,5,9,16,5,7,9,10,8,15
+707,White-tailed Deer,Driving,11,11,12,11,7,6,5,8,7,5,4,7,12,9,6
+708,White-tailed Deer,Driving,12,4,7,3,2,3,6,4,2,4,3,,3,9,4
+709,White-tailed Deer,Railway,1,1,5,3,1,1,5,8,2,2,3,2,2,3,4
+710,White-tailed Deer,Railway,2,,1,,,2,2,3,3,,2,5,1,,2
+711,White-tailed Deer,Railway,3,,5,2,2,2,1,2,3,2,2,2,1,,
+712,White-tailed Deer,Railway,4,,3,2,,,,1,1,1,2,,,,1
+713,White-tailed Deer,Railway,5,2,1,,,3,,,1,,1,1,,,
+714,White-tailed Deer,Railway,6,1,,,1,1,1,,,1,,,1,,
+715,White-tailed Deer,Railway,7,,,1,,,,,,,,,,1,
+716,White-tailed Deer,Railway,8,2,,1,,,1,,,,1,,,,
+717,White-tailed Deer,Railway,9,,,,,1,,1,1,1,1,,,1,
+718,White-tailed Deer,Railway,10,1,1,,,3,1,1,3,2,1,3,1,1,1
+719,White-tailed Deer,Railway,11,,1,3,,1,2,,,2,3,1,,,
+720,White-tailed Deer,Railway,12,1,3,2,,2,5,,,,3,,,1,1
+721,White-winged Crossbill,Driving,11,,,,,,60,,,,,,,,
+722,Wild Turkey,Driving,5,,,1,,,,,,,,1,,,
+723,Wild Turkey,Driving,7,,,,,,,1,,,,,,,
+724,Wilson's Snipe,Driving,5,,,,,,,,,,,1,,,
+725,Wolf,Driving,1,2,,,2,1,,,,,,,,,1
+726,Wolf,Driving,2,,,,1,1,,,,,1,,,,
+727,Wolf,Driving,3,,,2,,1,,,,,1,1,,,
+728,Wolf,Driving,4,,,,1,,,,,,,,,,1
+729,Wolf,Driving,5,,,1,,,,,,,1,1,,,
+730,Wolf,Driving,6,1,,4,,2,,,2,,,2,2,,
+731,Wolf,Driving,7,1,3,1,1,,1,,,1,,2,,,
+732,Wolf,Driving,8,3,2,,,2,,,2,,2,,1,,2
+733,Wolf,Driving,9,1,,1,,1,2,1,,1,,2,2,1,
+734,Wolf,Driving,10,,,1,,,1,2,,,,,1,1,
+735,Wolf,Driving,11,1,,,,,,1,,1,,1,,,
+736,Wolf,Driving,12,1,,,,,,,,,,,,,
+737,Wolf,Railway,1,,1,1,,,,,,,,,,1,
+738,Wolf,Railway,2,,,,,,,,,,,,1,,
+739,Wolf,Railway,3,,1,,1,,,,,,,,,,
+740,Wolf,Railway,4,,,,1,,,,,,,,,,
+741,Wolf,Railway,6,,,,2,,,1,,,,,,,
+742,Wolf,Railway,7,,1,,2,,,3,,,,,,,
+743,Wolf,Railway,9,,,2,,,,,,,,,,,
+744,Wolf,Railway,11,,,,,,,,,,,,1,,
+745,Wolf,Railway,12,,,,,,,,,,,,,,1
+746,Wolverine,Driving,4,,,,,,1,,,,,,,1,
+747,Wolverine,Driving,5,,,1,,,,,,,,,,,
+748,Wolverine,Driving,9,,,,,,,,,,,,,,1
+749,Wolverine,Driving,10,,,,,,,,,,,1,,,
+750,Wolverine,Driving,11,1,,,,,,,,,,,,,
+751,Wolverine,Driving,12,,,,,,,,,,,,,1,
+752,Wood Bison,Driving,1,,,,,1,,,,,,,,,
+753,Wood Bison,Driving,2,,,,1,,,4,,,,,,,
+754,Wood Bison,Driving,3,1,1,,,,,,,,,1,,,
+755,Wood Bison,Driving,4,,,,,,,,,3,,,,,
+756,Wood Bison,Driving,5,,,,,,,,,,2,,,,
+757,Wood Bison,Driving,6,,,1,,,,,,,,,,,
+758,Wood Bison,Driving,7,,,,1,,,,,,,,,1,1
+759,Wood Bison,Driving,8,1,,1,,,,,1,1,,,3,,
+760,Wood Bison,Driving,9,2,1,,,,,,,,,2,1,,
+761,Wood Bison,Driving,10,,,1,1,,,,,,,,,,3
+762,Wood Bison,Driving,11,,1,,,,,,6,,,,1,2,
+763,Wood Bison,Driving,12,,,1,,,1,,,,,,,,
+764,Woodchuck,Driving,5,,,,,1,,,,,,,,1,1
+765,Woodchuck,Driving,6,,,1,1,,1,2,,,1,,,,
+766,Woodchuck,Driving,7,,,,,,,1,,1,2,,,,
+767,Woodchuck,Driving,8,,,,,,,,,,,,,,1
+768,Woodchuck,Driving,10,,,,,,1,,,,,,,,
+769,Woodrat,Driving,7,,1,,,,,,,,,,,,
+770,Woodrat,Driving,8,,,,,,,,,,1,,,,
+771,Yellow Warbler,Driving,5,,,,,,,,,,,,,,1
+772,Yellow Warbler,Driving,6,,,,,,,,,1,,,,,1
+773,Yellow-bellied Racer,Driving,6,,,,,,,,,,,,,3,
+774,Yellow-bellied Racer,Driving,7,,,,1,,,,,,,,,1,
+775,Yellow-bellied Racer,Driving,8,,,1,1,,,,,,,,,1,
+776,Yellow-bellied Racer,Driving,9,,,,1,,,1,,,,,3,2,
+777,Yellow-throated Warbler,Driving,6,,,,,,,,,,,,,2,
